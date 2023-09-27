@@ -41,7 +41,6 @@ html {
   object-position: center;
 }
 
-
 .title {
   max-width: 780px;
   font-size: 116px;
@@ -50,12 +49,10 @@ html {
   text-transform: uppercase;
 }
 
-
 .header__title {
   margin: 60px 0 auto 0;
   z-index: 1;
 }
-
 
 .header__title::after {
   content: '*';
